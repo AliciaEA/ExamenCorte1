@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo KB a GB
 	// Solicitar al usuario que ingrese la cantidad en Kb
 	Definir Kb Como Entero;
 	Definir Gb Como Real;
